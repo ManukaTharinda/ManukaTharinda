@@ -1,12 +1,7 @@
 - 👋 Hi, I’m @ManukaTharinda
-- 👀 I’m interested in New Technologies
+- 👀 I’m interested in New Technologies and Software Development
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on a Projects
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-ManukaTharinda/ManukaTharinda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 💞️ I’m looking to collaborate on exciting projects in web development, mobile apps, and AI
+- 📫 How to reach me: manukatharinda199@gmail.com  or connect with me on [LinkedIn](https://www.linkedin.com/in/manuka-tharinda)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm always up for a coding challenge and love finding creative solutions to complex problems!
